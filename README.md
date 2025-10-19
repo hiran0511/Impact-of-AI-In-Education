@@ -77,6 +77,7 @@ Publishing – Export .pbix to Power BI Service
 ## 🖼️ Dashboard Preview
 🧩 Academic Performance Dashboard
 <a href="https://github.com/hiran0511/Impact_Of_AI_In_Education/blob/main/1.png">Academic Performance Dashboard</a>
+
 ⚡ Efficiency & Effort Dashboard
 <a href="https://github.com/hiran0511/Impact_Of_AI_In_Education/blob/main/2.png">Efficiency & Effort Dashboard</a>
 
