@@ -56,15 +56,22 @@ Strong improvement trend visible across all academic years.
 
 ## 🛠️ Tools & Technologies
 Power BI Desktop (.pbix)
+
 Data Cleaning: Power Query Editor
+
 Modeling: DAX Measures & Calculated Columns
+
 Visualization: Cards, Line/Bar Charts, Donuts, Gauges, and Tree Maps
 
 ## 🧾 Process
 Data Preparation – Clean and validate data using Power Query.
+
 Model Building – Create relationships and define DAX measures.
+
 Visualization – Design dashboards with slicers and cards.
+
 KPI Integration – Add metrics to track improvements.
+
 Publishing – Export .pbix to Power BI Service
 
 ## 🖼️ Dashboard Preview
