@@ -8,12 +8,15 @@ Compare AI-based and Traditional learning methods.
 Analyze academic performance, learning efficiency, and engagement metrics.
 Provide interactive dashboards for dynamic exploration using filters and slicers.
 Enable decision-makers (educators, analysts, institutions) to identify key performance trends.
+
 ## 🧠 Dataset Summary
 The dataset includes academic and behavioral data of students across different regions, years, and learning modes (AI vs Traditional).
 -<a href="https://github.com/hiran0511/Impact_Of_AI_In_Education/blob/main/AI_Data.csv">Dataset</a>
+
 ## 📊 Dashboards
 ### 1️⃣ Academic Performance — AI vs Traditional
 Focus: Compare AI and Traditional learning outcomes.
+
 KPIs:
 Avg Final Score (AI & Traditional)
 Performance Gain %
@@ -31,17 +34,20 @@ Strong improvement trend visible across all academic years.
 
 ### 2️⃣ Efficiency & Effort — “Faster and Easier with AI”
 Focus: Analyze time-efficiency, learning effort, and attendance.
+
 KPIs:
 Accuracy Efficiency
 Avg Study Hours (AI vs Traditional)
 Learning Efficiency Index
 Study Time Reduction Ratio
+
 Visuals:
 Tree map – Accuracy by Region
 Donut chart – AI Tool Usage
 Gauge – AI Efficiency vs Traditional Benchmark
 Line chart – Scores vs Study Hours
 Bar chart – Attendance % by Mode
+
 Insights:
 AI learners achieve similar or better results with ~10% less study time.
 Consistent accuracy and feedback improvement across all AI tools.
